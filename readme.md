@@ -7,7 +7,7 @@
 
 Open up a text editor of your choice and complete the following Javascript exercises.
 
-### Exercise #1
+### Exercise #1.1
 
 #### Part 1
 
@@ -25,7 +25,7 @@ What does the queue look like?
 It turns out David was saving a spot for his friend Renata. She shows up and goes behind him in the line. One more person (Elena) shows up and goes to the end of the line.
 What does the queue look like?
 
-### Exercise #2
+### Exercise #1.2
 
 Write a JavaScript program to construct the following pattern, using a nested for loop.
 
@@ -37,7 +37,7 @@ Write a JavaScript program to construct the following pattern, using a nested fo
 * * * * *
 ```
 
-### Exercise #3
+### Exercise #1.3
 
 Write while loops to do the following:
 
